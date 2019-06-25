@@ -2,6 +2,7 @@ import os
 import hashlib
 from bs4 import BeautifulSoup
 import requests
+#Note:  This ONLY works on Python 3+ due to the changes to input()
 
 print("----------------------------------")
 print("EMDEEFIVE TOOL BY TIKVAH")
